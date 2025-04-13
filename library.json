@@ -1,0 +1,35 @@
+[
+  {
+    "title" : "The species of Origin",
+    "author" "Charles Darwin",
+    "publication_year": 1859,
+    "genra":"Biology",
+    "read_status": false,
+    "added_data": "2025-03-25 11:40:30"
+  },
+{
+   "title": "The Selfish Gene",
+  "author": "Richard Dawkins",
+  "publication_year": 1976,
+  "genre": "Evolutionary Biology",
+  "read_status": "unread",
+  "added_data": "2025-05-25 12 30 45"
+},
+  {
+      "title": "Life on Earth",
+  "author": "David Attenborough",
+  "publication_year": 1979,
+  "genre": "Natural History",
+  "read_status": "unread",
+  "added_data": "2025-05-25 12:30:45"
+  },
+  {
+     "title": "The Diversity of Life",
+  "author": "Edward O. Wilson",
+  "publication_year": 1992,
+  "genre": "Biodiversity, Ecology",
+  "read_status": "unread",
+  "added_data": "2025-05-25 12:30:45"
+  },
+]
+
